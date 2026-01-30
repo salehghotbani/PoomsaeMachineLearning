@@ -25,7 +25,7 @@ The work focuses on analyzing the impact of translation and scale normalization 
 
 The processed pose dataset is publicly available via Zenodo:
 
-DOI: 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18432172.svg)](https://doi.org/10.5281/zenodo.18432172)
 
 Raw videos are NOT distributed due to licensing constraints. Only pose keypoints and derived features are released.
 
@@ -52,4 +52,6 @@ MIT License
 
 If you use this code, please cite:
 
-(put paper citation later)
+```
+
+```
