@@ -33,10 +33,6 @@ Raw videos are NOT distributed due to licensing constraints. Only pose keypoints
 
 `pip install -r requirements.txt`
 
-## Run Example
-
-`python run_pipeline.py --config config/config.yaml`
-
 ## Normalization Methods
 
 - Translation normalization (nose-centered)
