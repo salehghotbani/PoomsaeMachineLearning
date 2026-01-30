@@ -1,3 +1,9 @@
+[![Python](https://img.shields.io/badge/Python%203.11-red?logo=python&logoColor=fff)](#)
+[![CUDA](https://img.shields.io/badge/CUDA_Toolkit-12.8-blue)](#)
+[![cuDNN](https://img.shields.io/badge/cuDNN-9.8.0-blue)](#)
+[![RFDETR](https://img.shields.io/badge/RFDETR-1.2.1-blue)](#)
+[![RTMO](https://img.shields.io/badge/RTMO-0.0.14-blue)](#)
+
 # Pose-Based Taekwondo Poomsae Recognition with SVM and Logistic Regression
 
 This repository contains the full pipeline for pose-based recognition of Taekwondo Poomsae forms using geometric normalization and classical machine learning classifiers.
