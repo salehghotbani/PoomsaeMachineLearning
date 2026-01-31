@@ -52,5 +52,5 @@ MIT License
 
 If you use this code, please cite:
 
-https://doi.org/10.5281/zenodo.18436323
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18436323.svg)](https://doi.org/10.5281/zenodo.18436323)
 
